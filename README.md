@@ -11,4 +11,6 @@ The direct problems are solved using the matlab package MATSLISE.
 2. INVERSE TRANSMISSION EIGENVALUE PROBLEM: 
 We solve the inverse transmission eigenvalue problem for piecewise constant refractive indices in discs. We use kNN, Random Forests and Multilayer Perceptron. 
 Files kNN_ITEP_2L.py, RF_ITEP_2L.py and MLP_ITEP_2L.py include the corresponding python code. 
-The direct problems are solved using a spectral-galerkin method, developed in https://iopscience.iop.org/article/10.1088/0266-5611/29/10/104010. 
+The direct problems are solved using a spectral-galerkin method, developed in https://iopscience.iop.org/article/10.1088/0266-5611/29/10/104010.
+
+The raw data of the direct problems are available upon request. 
