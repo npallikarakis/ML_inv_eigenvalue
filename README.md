@@ -13,4 +13,4 @@ We solve the inverse transmission eigenvalue problem for piecewise constant refr
 Files kNN_ITEP_2L.py, RF_ITEP_2L.py and MLP_ITEP_2L.py include the corresponding python code. 
 The direct problems are solved using a spectral-galerkin method, developed in https://iopscience.iop.org/article/10.1088/0266-5611/29/10/104010.
 
-The raw data of the direct problems are available upon request. 
+The raw data of the direct problems which we used for training and validating the algorithms are available upon request. 
