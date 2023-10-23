@@ -85,6 +85,7 @@ import numpy as np
 from sklearn import metrics
 
 ######### load data
+#train data of the direct SL eigenvalue problem, using MATSLISE
 train_data = np.loadtxt('symmetric.csv', delimiter=',')
 original_data = np.loadtxt('symmetric_test.csv', delimiter=',')
 
