@@ -51,6 +51,7 @@ def perturbation_rank(model, x, y, names, regression):
     return result
 
 ######### load data
+#train data of the direct transmission eigenvalue problem, from the spectral-galerkin method
 train_data = np.loadtxt('classic_train.csv', delimiter=',',skiprows=1)
 #original data coming from separation of variables in discs
 real_data = np.loadtxt('classic_original_10.csv', delimiter=',',skiprows=1) ##ok
